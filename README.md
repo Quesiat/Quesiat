@@ -3,7 +3,7 @@
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 🚀 Estudando no momento a linguagem JavaScript
 - 💗 Investindo no front-end
-- 😄 Pronouns:ela/dela
+- 😄 Pronomes:ela/dela
 
 <div align="center">
   <a href="https://github.com/Quesiat">
